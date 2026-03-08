@@ -1,2 +1,20 @@
-# -employee-management-app
-give the description10:02 AMEmployee Management App built with React and Tailwind CSS. Features include admin and employee dashboards, task management, authentication, and local storage.
+# Employee Management App
+
+A React-based Employee Management App with admin and employee dashboards, task management, and authentication.
+
+## Features
+- Admin and Employee dashboards
+- Task management
+- Authentication
+- Local Storage
+
+## Tech Stack
+- React
+- Tailwind CSS
+- Context API
+
+## Getting Started
+```bash
+npm install
+npm run dev
+```
