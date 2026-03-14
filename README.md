@@ -99,6 +99,23 @@ Multiple employees are preloaded in LocalStorage.
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Admin Dashboard
+![Admin](screenshots/admin-dashboard.png)
+
+### Employee Dashboard
+![Employee](screenshots/employee-dashboard.png)
+
+### Task List
+![Tasks](screenshots/tasklist.png)
+
+> Projects with screenshots look much more professional on GitHub!
+> ---
+
 ## 📸 Application Flow
 
 Admin:
