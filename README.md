@@ -1,39 +1,39 @@
-<<<<<<< HEAD
-# React + Vite
+# Employee Task Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-featured employee task management app built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+[employee-management-app-mocha-eight.vercel.app](https://employee-management-app-mocha-eight.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Features
+- 🔐 Role-based login (Admin & Employee)
+- 📝 Admin can create and assign tasks
+- ✅ Employees can accept, complete, or fail tasks
+- 🗑️ Admin can delete tasks
+- 🔍 Search and filter tasks by status or category
+- 🎯 Task priority system (Low / Medium / High)
+- ⚠️ Overdue task warnings
+- 📊 Live task count dashboard
+- 💾 localStorage based data persistence
+- 🔔 Toast notifications and confirm modals
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Employee Management App
-
-A React-based Employee Management App with admin and employee dashboards, task management, and authentication.
-
-## Features
-- Admin and Employee dashboards
-- Task management
-- Authentication
-- Local Storage
-
-## Tech Stack
+## 🛠️ Tech Stack
 - React
 - Tailwind CSS
-- Context API
+- Vite
+- localStorage
 
-## Getting Started
-```bash
+## 🚀 Getting Started
+git clone https://github.com/BIwashbhatarai/-employee-management-app.git
+cd employee-management-app
 npm install
 npm run dev
-```
->>>>>>> b546bf627b3cd8776ecb6f149721e6137ee59ad6
+
+## 👤 Demo Credentials
+**Admin**
+- Email: admin@company.com
+- Password: 123
+
+**Employee**
+- Email: aarav.sharma@company.com
+- Password: 123
